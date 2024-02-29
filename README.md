@@ -5,7 +5,7 @@ The model based on ChemGPT-4.7M by using the software transformers(version 4.20.
 # Finetune training to obtain ChemGPT-cancer:
 python gpt_for_anticancer.py
 
-# generated de novo anticancer-like compounds dataset
+# Generated de novo anticancer-like compounds dataset
 python gpt3_gen_cancer.py
 
 
